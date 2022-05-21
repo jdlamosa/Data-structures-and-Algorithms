@@ -1,3 +1,9 @@
+/**
+    Convex Hull
+    @file ConvexHull.hpp
+    @author Jessica Domingues Lamosa
+*/
+
 #include <list>
 #include "edge.hpp"
 
