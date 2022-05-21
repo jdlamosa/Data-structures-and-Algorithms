@@ -1,3 +1,9 @@
+/**
+    Convex Hull
+    @file vertex.hpp
+    @author Jessica Domingues Lamosa
+*/
+
 #include <iostream>
 
 class Vertex {
