@@ -1,3 +1,8 @@
+/**
+    KD-Tree
+    @file TreeApp.hpp
+    @author Jessica Domingues Lamosa
+*/
 #include "Tree.hpp"
 
 void printV(std::list<Node <int> > node) {
