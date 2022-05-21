@@ -1,3 +1,9 @@
+/**
+    Convex Hull
+    @file edge.hpp
+    @author Jessica Domingues Lamosa
+*/
+
 #include "vertex.hpp"
 
 class Edge {
