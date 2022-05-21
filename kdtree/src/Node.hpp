@@ -1,3 +1,8 @@
+/**
+    KD-Tree
+    @file Node.hpp
+    @author Jessica Domingues Lamosa
+*/
 #include <iostream>
 
 template <class T> 
