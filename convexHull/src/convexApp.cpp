@@ -1,3 +1,9 @@
+/**
+    Convex Hull
+    @file convexApp.cpp
+    @author Jessica Domingues Lamosa
+*/
+
 #include "ConvexHull.hpp"
 #include "MedirTempos.h"
 
@@ -21,16 +27,6 @@ int main() {
   vs.push_back(v);
   t.time("insert");
   
-//   v.insert(1.0, 1.0);
-//   vs.push_back(v);
-//   v.insert(1.0, 3.0);
-//   vs.push_back(v);
-//   v.insert(2.0, 2.0);
-//   vs.push_back(v);
-//   v.insert(3.0, 1.0);
-//   vs.push_back(v);
-//   v.insert(3.0, 3.0);
-//   vs.push_back(v);
 
   ConvexHull a;
   t.time("setV");
