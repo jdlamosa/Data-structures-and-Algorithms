@@ -1,3 +1,8 @@
+/**
+    KD-Tree
+    @file Tree.hpp
+    @author Jessica Domingues Lamosa
+*/
 #include <iostream>
 #include <list>
 #include "Node.hpp"
