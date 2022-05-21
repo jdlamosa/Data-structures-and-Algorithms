@@ -1,3 +1,8 @@
+/**
+    @file MedirTempos.h
+    @author Jessica Domingues Lamosa
+*/
+
 #include <sys/time.h>
 #include <iostream>
 #include <fstream>
